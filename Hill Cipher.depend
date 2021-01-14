@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610525928 source:d:\vgu\1st year\crytography\hill cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

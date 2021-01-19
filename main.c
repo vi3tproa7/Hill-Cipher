@@ -148,7 +148,7 @@ void decryption_Function()
 
     if ( valid == 0)
     {
-        printf("Your key is not valid, it can be used to decrypt, you must change your key.\n");
+        printf("Your key is not valid, it cant be used to decrypt, you must change your key.\n");
         printf("The program will exit here");
         getchar();
         getchar();
